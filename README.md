@@ -1,6 +1,5 @@
 # AI PM MCP - Universal AI Product Management Toolkit
 
-[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Featured-orange?style=for-the-badge&logo=producthunt)](https://www.producthunt.com/)
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue?style=for-the-badge)](https://modelcontextprotocol.io/)
 
 **Your PM frameworks are scattered across docs and bookmarks... But nowhere accessible in your AI workflow.**
