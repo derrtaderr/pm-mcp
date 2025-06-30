@@ -13,7 +13,7 @@ Universal AI PM MCP makes proven product management frameworks and optimized pro
 **Turn any LLM into your personal AI Product Manager** with instant access to:
 
 - **Interactive PM Framework Wizards** - RICE prioritization, competitive analysis, user research synthesis with step-by-step guidance
-- **20+ Optimized Prompts** - Battle-tested prompts for prioritization, strategy, research, and stakeholder communication  
+- **50+ Optimized Prompts** - Battle-tested prompts for prioritization, strategy, research, and stakeholder communication  
 - **Cross-Platform Consistency** - Same powerful toolkit whether you're in ChatGPT, Claude, Gemini, or any MCP-enabled LLM
 - **Smart Context Integration** - Frameworks adapt to your specific project context and stakeholder needs
 
